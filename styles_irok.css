@@ -1,0 +1,13 @@
+body {
+    background-color: #e0d3af;
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+hr {
+    border: 1px solid #c4b382;
+}
+
+.checked {
+    color: orange;
+}
